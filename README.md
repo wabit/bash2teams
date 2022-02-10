@@ -11,7 +11,7 @@ This script allows you to push notifications to a Microsoft Teams Channel
  
  ----
  
- ###Example
+ ### Example
  
  bash2teams ERROR "Danger Will Robinson!!!!" https://bla.bla.bla/webhook/sdjfbaliuh398rheo
  
