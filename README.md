@@ -2,7 +2,7 @@
 
 This script allows you to push notifications to a Microsoft Teams Channel
 
- #####Values received by this script:
+ #### Values received by this script:
  - Subject = $1 - Message Subject - hopefully either ERROR or SUCCESS
     * Change message themeColor depending on the subject - green (SUCCESS), red (ERROR), or grey (for everything else)
  - Message = $2 - whatever you want really i.e. "DANGER WILL ROBINSON!!!!"
